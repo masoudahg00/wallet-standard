@@ -4,7 +4,7 @@ This repo contains Solana-specific extensions to the [Wallet Standard](https://g
 
 If you have a wallet and want to implement this, please see the [Wallet Standard for Wallets](./WALLET.md) guide.
 
-# [typescript-monorepo](https://github.com/jordansexton/typescript-monorepo)
+#masoudahg00 [typescript-monorepo](https://github.com/jordansexton/typescript-monorepo)
 
 This is a simple monorepo template with some specific design goals:
 
@@ -50,7 +50,7 @@ pnpm install
 Run this to build all your workspace packages.
 
 ```shell
-pnpm build
+pnpm build @masoudahg00
 ```
 
 This will build workspace packages that use `tsc` for compilation first, then everything else.
@@ -61,6 +61,6 @@ Run this to build and watch workspace packages that use `tsc` for compilation.
 
 ```shell
 pnpm watch
-```
+```@masoudahg00
 
 Other packages can build and run with their own tools (like CRA's react-scripts commands).
